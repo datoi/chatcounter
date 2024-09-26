@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+span {
+  font-size: 24px;
+  margin: 0 20px;
+}
+.contBox {
+  display: flex;
+  justify-content: center;
+}
+.counts {
+  margin: 50px 0;
+  text-align: center;
+}
+.incrementButton {
+  cursor: pointer;
+  padding: 0px 8px;
+  color: white;
+  background: red;
+  border: none;
+  border-radius: 20%;
+}
+.decrementButton {
+  cursor: pointer;
+  padding: 0px 8px;
+  color: white;
+  background: green;
+  border: none;
+  border-radius: 20%;
+}
+.clean {
+  cursor: pointer;
+  border: none;
+  background-color: aqua;
+  color: blueviolet;
+  border-radius: 10%;
+}
+
+.est {
+  color: rgb(39, 39, 142);
+}
+
+.lva {
+  color: rgb(153, 10, 10);
+}
+
+.ltu {
+  color: rgb(210, 193, 6);
+}
+
+.ru {
+  color: rgb(124, 114, 174);
+}
